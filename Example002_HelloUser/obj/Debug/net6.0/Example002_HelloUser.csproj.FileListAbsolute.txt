@@ -1,0 +1,15 @@
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/bin/Debug/net6.0/ref/Example002_HelloUser.dll
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bq2yOno9/pCcniuW2NA/6SK7kYW7JqORBOue8fa+ZAKyChRpD8Lc5hkOdizLojTBjC6oA4QTHGHkB2MBYJtQpA==",
+  "success": true,
+  "projectFilePath": "/home/helene/Рабочий стол/GeekBrains_Git/Знакомство с языками програмирования_С#/Lesson-1/Example002_HelloUser/Example002_HelloUser.csproj",
+  "expectedPackageFiles": [
+    "/home/helene/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
